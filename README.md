@@ -1,0 +1,1 @@
+# Example_For_Effective_Mordern_Cplusplus
